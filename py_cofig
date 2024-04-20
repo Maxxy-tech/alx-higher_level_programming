@@ -1,0 +1,4 @@
+#!/bin/bash
+export PYFILE=/path/to/your/python_script.py
+./run_python_script.sh
+
